@@ -1,0 +1,34 @@
+1. rename file to telluride.zip
+
+2. extract all to C:\telluride
+
+3. copy contents of C:\telluride\copytoWinDir to C:\WINDOWS\system32
+  (don't copy the folder itself - just the contents)
+
+4. if no java JRE, install - http://java.sun.com/javase/6/webnotes/install/index.html
+     choose JRE for windows & follow instructions.
+       (to check to see if you have java runtime, 
+	a. open a command window start=> run=> cmd
+        b. type java -version
+        c. if you get something like this, you have java installed:
+		C:\Documents and Settings\kohi>java -version
+			java version "1.6.0_01"
+			Java(TM) SE Runtime Environment (build 1.6.0_01-b06)
+			Java HotSpot(TM) Client VM (build 1.6.0_01-b06, mixed mode, sharing)
+	d. if you get an error (like "java is not recognized as an internal or external command, operable program or batch file"), you need to install java
+
+
+5. replace the proxy file (C:\telluride\data\proxies.csv) with the most recent version of the file.
+   (note - the expected form of this is a csv (comma-separated file) that's in the same format as the old files for Dave Greene's program
+   
+   some example rows:
+   Ahmad,Ali,Mr.,11-Jun-04,Montesino,Smith [J],Morton [S],Varughese,Morton [J],Aukerman,Wulff,Garten,Rosenblum [W]
+   Ahonen,Emily,Ms.,14-Jun-02,Cattelino,Pinnamaneni,Zatz,Littauer,Watts Belser,Long,Aukerman,Bradby,Rosenblum [W],Singh
+   Andrews,Norwood,Mr.,10-Jun-99,Dulitz,Aukerman,Sheppard,Pazdernik,Tregaskis,Cadbury,Steele,Watts Belser
+   Arenson,Adam,Mr.,23-May-02,Suguri,Galindo,Tulis,Goodwin,Nelson,Littauer,Migiel,Morton [S],Suk
+
+
+6. open a command window (start=>run=> cmd)
+
+type this:
+java -classpath "C:/telluride/classes;" -Djava.library.path="C:\telluride\lib\win32" org.telluride.proxy.GUI.ProxyGUI

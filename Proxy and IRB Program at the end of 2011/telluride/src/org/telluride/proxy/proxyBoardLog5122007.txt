@@ -1,0 +1,420 @@
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger getLogger
+INFO: started logger
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: initializing proxyBoard
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Ahmad
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Ahmad
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Ahonen
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Ahonen
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Andrews
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Andrews
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Arenson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Arenson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Aukerman
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Aukerman
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Bauman
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Bauman
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Bernstein
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Bernstein
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Blumner
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Blumner
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Bradby
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Bradby
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Briggs
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Briggs
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Budden
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Budden
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cadbury
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cadbury
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Carlson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Carlson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Carter
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Carter
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cattelino
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cattelino
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cattley
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cattley
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Chiu
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Chiu
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cho
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cho
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Chuang
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Chuang
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cole
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cole
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cooluris
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cooluris
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cooper
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Cooper
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Corso
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Corso
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Dietz
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Dietz
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Dulitz
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Dulitz
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Eckert
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Eckert
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Edelson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Edelson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Edmondson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Edmondson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Erickson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Erickson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Fitneva
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Fitneva
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Foster
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Foster
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Galindo
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Galindo
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Garten
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Garten
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Gelobter
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Gelobter
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Gilson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Gilson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Goodwin
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Goodwin
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Graunke
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Graunke
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Hagedorn
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Hagedorn
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Hoekstra
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Hoekstra
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Hogan
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Hogan
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Houshower
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Houshower
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Husain
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Husain
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Jaffee
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Jaffee
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Johnson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Johnson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Kaplan
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Kaplan
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Kirsanow
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Kirsanow
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading LaDue
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished LaDue
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Littauer
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Littauer
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Long
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Long
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Lowey-Ball
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Lowey-Ball
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Luzadis
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Luzadis
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading May
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished May
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading McGill [E]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished McGill [E]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading McGill [K]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished McGill [K]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Michaelson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Michaelson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Migiel
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Migiel
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Montesino
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Montesino
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Morey
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Morey
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Morton [J]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Morton [J]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Morton [S]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Morton [S]
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Mukherji
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Mukherji
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Nagy
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Nagy
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Nelson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Nelson
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Nestor
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Nestor
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading O'Connor
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished O'Connor
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Ohi
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Ohi
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Omari
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Omari
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Owen
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Owen
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Pazdernik
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Pazdernik
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Peskowitz
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Peskowitz
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Pinnamaneni
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Pinnamaneni
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Porter
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Porter
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Price
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Price
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Pulliam
+May 12, 2007 5:08:17 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Pulliam
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rajagopalan [Ramya]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Rajagopalan [Ramya]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rajagopalan [Ranga]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Rajagopalan [Ranga]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rosenblum [N]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Rosenblum [N]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rosenblum [W]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Rosenblum [W]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Saltzman
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Saltzman
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Schusterbauer
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Schusterbauer
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Schwam-Baird
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Schwam-Baird
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Shagalov
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Shagalov
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Sheppard
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Sheppard
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Singh
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Singh
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Smith [J]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Smith [J]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Smith [S]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Smith [S]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Smith [T]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Smith [T]
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Sosa
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Sosa
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Steele
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Steele
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Suguri
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Suguri
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Suk
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Suk
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Thomas
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Thomas
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Thompson
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Thompson
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Tontiplaphol
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Tontiplaphol
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Tregaskis
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Tregaskis
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Tulis
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Tulis
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Varughese
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Varughese
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Watts Belser
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Watts Belser
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Weiger
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Weiger
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Wildes
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Wildes
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Williams
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Williams
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Wulff
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Wulff
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading Zatz
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished Zatz
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Loading van der Vlugt
+May 12, 2007 5:08:18 PM org.telluride.proxy.ProxyLogger log
+INFO: Finished van der Vlugt

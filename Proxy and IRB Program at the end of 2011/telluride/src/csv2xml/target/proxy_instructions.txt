@@ -1,0 +1,5 @@
+1. Check the boxes next to present members.
+2. Click "run proxies" to calculate proxies
+3. If attendance changes, use checkboxes to
+update proxies, then click "run proxies"
+to update.

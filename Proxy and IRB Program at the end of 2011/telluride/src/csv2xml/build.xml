@@ -1,0 +1,59 @@
+<project name="CSVtoXML" default="make-jar">
+<property name="here" value="."/>
+<property name="build.dir" value="target" />  
+<property name="src.dir" value="src" />  
+<property name="build.dir.dest" value="${build.dir}/classes"/>
+
+
+<target name="init">
+    <mkdir dir="${build.dir.dest}"/>
+</target>
+
+<target name="compile" depends="init">
+    <javac srcdir="${src.dir}" destdir="${build.dir.dest}"/>
+</target>
+
+
+<target name="make-jar" depends="init,compile">
+    <jar basedir="${build.dir.dest}" 
+        destfile="${build.dir}/CSVtoXML.jar" 
+        includes="*.class"
+        manifest="${src.dir}/manifest" />
+</target>
+
+<target name="build" depends="clean,make-jar,javadoc,zip"/>
+
+<target name="clean">
+    <delete dir="${build.dir}"/>
+    <delete>
+        <fileset dir="." includes="*.class"/>
+    </delete>
+    <delete dir="${basedir}/doc"/>
+</target>
+
+<target name="javadoc">
+    <echo message="Generating Javadoc in : ${build.dir} from: ${basedir}"/>
+    <javadoc destdir="${build.dir}/doc" 
+            sourcepath="${src}"
+            Windowtitle="CSV2XML" >
+        <fileset dir="${src.dir}" includes="*.java"/>
+        
+    </javadoc>
+</target>
+
+
+<target name="zip" depends="make-jar">
+<delete file="${build.dir}/csv2xml.zip"/>
+<copy file="build.xml" tofile="${src.dir}/build.xml"/>
+<copy file="target/CSVtoXML.jar" tofile="${src.dir}/CSVtoXML.jar"/>
+<zip destfile="${build.dir}/csv2xml.zip"
+  basedir="${here}"
+  update="true"
+  includes="src/*.java, src/manifest, src/stylesheet.css, src/test.csv, src/attsProps.txt,  build.xml, target/CSVtoXML.jar"
+/>
+
+
+</target>
+
+
+</project>

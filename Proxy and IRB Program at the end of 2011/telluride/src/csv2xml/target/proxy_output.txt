@@ -1,0 +1,1663 @@
+C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\bin\java -Didea.launcher.port=7543 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 5.1\bin" -Dfile.encoding=windows-1252 -classpath "C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\charsets.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\jce.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\jsse.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\plugin.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\rt.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\sunrsasign.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\ext\dnsns.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\ext\ldapsec.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\ext\localedata.jar;C:\p4\3rdparty\sun\java\win-i86pc\1.4.2_09\jre\lib\ext\sunjce_provider.jar;C:\p4\oracle\product\air\airline_ticket_detail\cocoon-reports.war;C:\p4\oracle\product\air\airline_ticket_detail\lib\mail.jar;C:\p4\oracle\product\air\airline_ticket_detail\lib\smtp.jar;C:\p4\oracle\product\air\airline_ticket_detail\lib\activation.jar;C:\j2sdkee1.4\lib\j2ee.jar;C:\j2sdkee1.4\lib\j2eetools.jar;C:\oracle\ora92\classes\oracle;C:\oracle\ora92\jdbc\lib;C:\oracle\ora92\jdbc\lib\classes111.jar;C:\oracle\ora92\jdbc\lib\classes111.zip;C:\oracle\ora92\jdbc\lib\classes111_g.jar;C:\oracle\ora92\jdbc\lib\classes111_g.zip;C:\oracle\ora92\jdbc\lib\classes12.jar;C:\oracle\ora92\jdbc\lib\classes12.zip;C:\oracle\ora92\jdbc\lib\classes12_g.jar;C:\oracle\ora92\jdbc\lib\classes12_g.zip;C:\oracle\ora92\jdbc\lib\classes12dms.jar;C:\oracle\ora92\jdbc\lib\classes12dms_g.jar;C:\oracle\ora92\jdbc\lib\nls_charset11.jar;C:\oracle\ora92\jdbc\lib\nls_charset11.zip;C:\oracle\ora92\jdbc\lib\nls_charset12.jar;C:\oracle\ora92\jdbc\lib\nls_charset12.zip;C:\oracle\ora92\jdbc\lib\ocrs12.jar;C:\oracle\ora92\jdbc\lib\ocrs12.zip;C:\oracle\ora92\jdbc\lib\ojdbc14.jar;C:\oracle\ora92\jdbc\lib\ojdbc14_g.jar;C:\oracle\ora92\lib\activation.jar;C:\oracle\ora92\lib\jsse.jar;C:\oracle\ora92\lib\mail.jar;C:\oracle\ora92\lib\servlet.jar;C:\oracle\ora92\lib\vbjapp.jar;C:\oracle\ora92\lib\vbjorb.jar;C:\oracle\ora92\lib\vbjtools.jar;C:\oracle\ora92\lib\xmlcomp2.jar;C:\oracle\ora92\lib\xmlmesg.jar;C:\oracle\ora92\lib\xmlparserv2.jar;C:\oracle\ora92\lib\xschema.jar;C:\oracle\ora92\lib\xsu111.jar;C:\oracle\ora92\lib\xsu12.jar;C:\p4\oracle\product\air\airline_ticket_detail\lib\jxl.jar;C:\p4\oracle\product\air\airline_ticket_detail\lib\excalibur-logger-1.1.jar;C:\p4\oracle\product\air\airline_ticket_detail\lib\excalibur-logger-2.1.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\lib\jasper-compiler.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\lib\jasper-runtime.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\lib\naming-factory.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\lib\rpDBPool.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\activation.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\jasper-compiler.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\jasper-runtime.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\jdbc2_0-stdext.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\jndi.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\jta-spec1_0_1.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\mail.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\naming-common.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\naming-factory.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\naming-resources.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\rpDBPool.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\servlet.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\tyrex-0.9.7.0.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\common\lib\xerces.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\avalon-excalibur-vm14-20020705.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\avalon-framework-20020627.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\classes111.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\classes12.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\classes12_g.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\classes12dms.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\cocoon-2.0.3.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\cocoon-scratchpad.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\commons-collections-1.0.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\commons-httpclient-20020423.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\commons-JXPath-20020320.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\commons-logging-1.0.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\deli-0.50.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\ExtenXLS.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\jakarta-poi-1.5.0-dev-20020408.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\jakarta-regexp-1.2.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\jisp_1_0_2.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\jstyle.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\jxl.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\krysalis-wings-0.1.0-dev-2.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\logkit-20020529.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\ojdbc14.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\pizza-1.1.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\rdffilter.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\resolver-20020130.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\xalan-2.3.1.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\xercesImpl-2.0.0.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\xml-apis.jar;C:\p4\3rdparty\apache\tomcat\4.0.3\webapps\cocoon-reports\WEB-INF\lib\xmldb-api-20011111.jar;C:\telluride\classes;C:\IntelliJ-IDEA-4.5\bin\glpk\source\java;C:\IntelliJ-IDEA-4.5\bin\windows\glpk.jar;C:\lp_solve\lp_solve_5.5_java\lp_solve_5.5_java\lib\lpsolve55j.jar;C:\lp_solve\lp_solve_5.5_java\lp_solve_5.5_java\lib\junit.jar;C:\lp_solve\lp_solve_5.5_dev;C:\lp_solve\lp_solve_5.5_java\lp_solve_5.5_java\lib\win32;C:\Program Files\JetBrains\IntelliJ IDEA 5.1\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain org.telluride.proxy.TestProxySolve
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger getLogger
+INFO: started logger
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: initializing proxyBoard
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Ahmad
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Ahonen
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Andrews
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Arenson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Bauman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Bernstein
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Blumner
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Bradby
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Budden
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cadbury
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Carlson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Carter
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cattley
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Chiu
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cho
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Chuang
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cole
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cooluris
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Cooper
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Corso
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Dietz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Dulitz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Eckert
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Edelson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Edmondson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Erickson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Fitneva
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Foster
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Galindo
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Garten
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Gelobter
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Gilson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Goodwin
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Graunke
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Hagedorn
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Hoekstra
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Hogan
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Houshower
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Husain
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Jaffee
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Johnson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Kaplan
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Kirsanow
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading LaDue
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Littauer
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Long
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Lowey-Ball
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Luzadis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading McGill [E]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading McGill [K]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Michaelson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Migiel
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Montesino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Morey
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Morton [J]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Morton [S]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Mukherji
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Nagy
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Nelson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Nestor
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading O'Connor
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Ohi
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Omari
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Owen
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Pazdernik
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Peskowitz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Pinnamaneni
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Porter
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Price
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Pulliam
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rajagopalan [Ramya]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rajagopalan [Ranga]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rosenblum [N]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Rosenblum [W]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Saltzman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Schusterbauer
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Schwam-Baird
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Shagalov
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Sheppard
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Singh
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Smith [J]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Smith [S]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Smith [T]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Sosa
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Steele
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Suguri
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Suk
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Thomas
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Thompson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Tontiplaphol
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Tulis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Varughese
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Watts Belser
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Weiger
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Wildes
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Williams
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Wulff
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading Zatz
+
+Ahmad Ali [y/n or type 'q' to quit] 
+Ahonen Emily [y/n or type 'q' to quit] 
+Andrews Norwood [y/n or type 'q' to quit] 
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Loading van der Vlugt
+Arenson Adam [y/n or type 'q' to quit] 
+Aukerman Miriam [y/n or type 'q' to quit] 
+Bauman Jessica [y/n or type 'q' to quit] 
+Bernstein Alyssa [y/n or type 'q' to quit] 
+Blumner Nicole [y/n or type 'q' to quit] 
+Bradby Matthew [y/n or type 'q' to quit] 
+Briggs John [y/n or type 'q' to quit] 
+Budden Philip [y/n or type 'q' to quit] 
+Cadbury Joel [y/n or type 'q' to quit] 
+Carlson Cathy [y/n or type 'q' to quit] 
+Carter Rebecca [y/n or type 'q' to quit] 
+Cattelino Jessica [y/n or type 'q' to quit] 
+Cattley John [y/n or type 'q' to quit] 
+Chiu Jeannie [y/n or type 'q' to quit] 
+Cho Albert [y/n or type 'q' to quit] 
+Chuang Julia [y/n or type 'q' to quit] 
+Cole Shawn [y/n or type 'q' to quit] 
+Cooluris Richard [y/n or type 'q' to quit] 
+Cooper Robert [y/n or type 'q' to quit] 
+Corso John [y/n or type 'q' to quit] 
+Dietz Shelby [y/n or type 'q' to quit] 
+Dulitz Daniel [y/n or type 'q' to quit] 
+Eckert Lynn [y/n or type 'q' to quit] 
+Edelson S. Max [y/n or type 'q' to quit] 
+Edmondson G. Bradley [y/n or type 'q' to quit] 
+Erickson Ryan [y/n or type 'q' to quit] 
+Fitneva Stanka [y/n or type 'q' to quit] 
+Foster Paul [y/n or type 'q' to quit] 
+Galindo Daniel [y/n or type 'q' to quit] 
+Garten F. Lloyd [y/n or type 'q' to quit] 
+Gelobter Michel [y/n or type 'q' to quit] 
+Gilson Kurt [y/n or type 'q' to quit] 
+Goodwin Joy [y/n or type 'q' to quit] 
+Graunke Kristi [y/n or type 'q' to quit] 
+Hagedorn Suzanne [y/n or type 'q' to quit] 
+Hoekstra Timothy [y/n or type 'q' to quit] 
+Hogan Adam [y/n or type 'q' to quit] 
+Houshower Samuel [y/n or type 'q' to quit] 
+Husain Adnan [y/n or type 'q' to quit] 
+Jaffee Valerie [y/n or type 'q' to quit] 
+Johnson Aaron [y/n or type 'q' to quit] 
+Kaplan Philip [y/n or type 'q' to quit] 
+Kirsanow Karola [y/n or type 'q' to quit] 
+LaDue Holly [y/n or type 'q' to quit] 
+Littauer Amanda [y/n or type 'q' to quit] 
+Long Jennifer (Vern) [y/n or type 'q' to quit] 
+Lowey-Ball ShawnaKim [y/n or type 'q' to quit] 
+Luzadis Rebecca [y/n or type 'q' to quit] 
+May James [y/n or type 'q' to quit] 
+McGill [E] Ellen [y/n or type 'q' to quit] 
+McGill [K] Kenneth [y/n or type 'q' to quit] 
+Michaelson Eliot [y/n or type 'q' to quit] 
+Migiel Marilyn [y/n or type 'q' to quit] 
+Montesino Max [y/n or type 'q' to quit] 
+Morey Kathleen [y/n or type 'q' to quit] 
+Morton [J] Jason [y/n or type 'q' to quit] 
+Morton [S] Sarah [y/n or type 'q' to quit] 
+Mukherji Ani [y/n or type 'q' to quit] 
+Nagy Nathan [y/n or type 'q' to quit] 
+Nelson Sarah [y/n or type 'q' to quit] 
+Nestor Amy [y/n or type 'q' to quit] 
+O'Connor Patrick [y/n or type 'q' to quit] 
+Ohi Kolin [y/n or type 'q' to quit] 
+Omari Amina [y/n or type 'q' to quit] 
+Owen Carol [y/n or type 'q' to quit] 
+Pazdernik Charles [y/n or type 'q' to quit] 
+Peskowitz Zachary [y/n or type 'q' to quit] 
+Pinnamaneni Sruthi [y/n or type 'q' to quit] 
+Porter David [y/n or type 'q' to quit] 
+Price Todd [y/n or type 'q' to quit] 
+Pulliam Jay [y/n or type 'q' to quit] 
+Rajagopalan [Ramya] Ramya [y/n or type 'q' to quit] 
+Rajagopalan [Ranga] Rangarajan [y/n or type 'q' to quit] 
+Rosenblum [N] Noah [y/n or type 'q' to quit] 
+Rosenblum [W] Warren [y/n or type 'q' to quit] 
+Saltzman Amy [y/n or type 'q' to quit] 
+Schusterbauer Emily [y/n or type 'q' to quit] 
+Schwam-Baird Michael [y/n or type 'q' to quit] 
+Shagalov Laura [y/n or type 'q' to quit] 
+Sheppard Alice [y/n or type 'q' to quit] 
+Singh Puneet [y/n or type 'q' to quit] 
+Smith [J] Joshua [y/n or type 'q' to quit] 
+Smith [S] Shepard [y/n or type 'q' to quit] 
+Smith [T] Tara [y/n or type 'q' to quit] 
+Sosa Joseph [y/n or type 'q' to quit] 
+Steele Laura [y/n or type 'q' to quit] 
+Suguri Henrique [y/n or type 'q' to quit] 
+Suk Julie [y/n or type 'q' to quit] 
+Thomas Amanda [y/n or type 'q' to quit] 
+Thompson Diane [y/n or type 'q' to quit] 
+Tontiplaphol Don [y/n or type 'q' to quit] 
+Tregaskis Sharon [y/n or type 'q' to quit] 
+Tulis Elizabeth [y/n or type 'q' to quit] 
+Varughese Vinay [y/n or type 'q' to quit] 
+Watts Belser Julia [y/n or type 'q' to quit] 
+Weiger Sarah [y/n or type 'q' to quit] 
+Wildes David [y/n or type 'q' to quit] 
+Williams Jason [y/n or type 'q' to quit] 
+Wulff Lars [y/n or type 'q' to quit] 
+Zatz Noah [y/n or type 'q' to quit] 
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Ahmad to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Ahonen to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Andrews to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Arenson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Aukerman to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Bauman to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Bernstein to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Blumner to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Bradby to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Briggs to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Budden to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cadbury to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Carlson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Carter to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cattelino to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cattley to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Chiu to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cho to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Chuang to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cole to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cooluris to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Cooper to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Corso to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Dietz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Watts Belser
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Watts Belser is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Cattelino is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Zatz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Andrews
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Andrews is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Pazdernik
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Blumner
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Blumner is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Dietz to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Dulitz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Andrews
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Andrews is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Steele
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Steele is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Zatz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Blumner
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Blumner is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Watts Belser
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Watts Belser is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Suk
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Suk is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Tregaskis is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Nestor
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Nestor is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Dulitz to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Eckert to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Edelson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Edmondson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Erickson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Fitneva to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Foster to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Galindo to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Garten to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Gelobter to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Gilson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Goodwin to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Graunke to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Hagedorn to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Hoekstra to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Hogan to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Houshower to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Husain to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Jaffee to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Johnson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Kaplan to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Kirsanow to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding LaDue to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Littauer to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Long to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Lowey-Ball to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Luzadis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Arenson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Arenson is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Cattelino is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Zatz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Aukerman is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Goodwin
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Goodwin is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Migiel
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Migiel is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Owen
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Owen is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Nestor
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Nestor is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Foster
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Foster is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Dietz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Luzadis to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding May to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding McGill [E] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding McGill [K] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Michaelson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Migiel to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Montesino to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Morey to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Morton [J] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Morton [S] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Mukherji to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Nagy to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Nelson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Nestor to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding O'Connor to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Ohi to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Omari to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Owen to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Pazdernik
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Aukerman is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Cattelino is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Zatz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: May is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Briggs is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Lowey-Ball
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Lowey-Ball is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Montesino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Montesino is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Nagy
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Nagy is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: McGill [K]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: McGill [K] is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Goodwin
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Goodwin is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Pazdernik to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Peskowitz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Hogan
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Hogan is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Eckert
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Eckert is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Ahmad
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Ahmad is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Weiger
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Weiger is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Rajagopalan [Ranga]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Rajagopalan [Ranga] is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: May is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Peskowitz to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Pinnamaneni to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Porter to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Price to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Pulliam to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Rajagopalan [Ramya] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Rajagopalan [Ranga] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Rosenblum [N] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Rosenblum [W] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Saltzman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Nagy
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Nagy is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Rajagopalan [Ramya]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Rajagopalan [Ramya] is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Lowey-Ball
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Lowey-Ball is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Cattley
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Cattley is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Briggs is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Tulis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Tulis is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Morey
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Morey is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Eckert
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Eckert is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: May is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Tregaskis is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Saltzman to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Schusterbauer to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Schwam-Baird to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Shagalov to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Sheppard to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Singh to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Smith [J] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Smith [S] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Smith [T] to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Sosa to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Steele to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Suguri to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Suk to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Thomas to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Thompson to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Tontiplaphol to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Tregaskis to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Tulis to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Varughese to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Watts Belser to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Weiger to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Wildes to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Williams to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Wulff to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: setting proxies for Zatz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Cattelino is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Aukerman is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Pazdernik
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Tregaskis is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: McGill [K]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: McGill [K] is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Briggs is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: May is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Graunke
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Graunke is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Hagedorn
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Hagedorn is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: found possible proxy: Sosa
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Sosa is present - adding...
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding Zatz to list of absent members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding van der Vlugt to list of present members.
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Ran setPresentProxies()
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: created problem with 53 variables
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: 7 absent members
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: 97 present members
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Dietz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 4
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Dulitz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 7
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Luzadis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 8
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Pazdernik
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 9
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Peskowitz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 6
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Saltzman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 10
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Getting proxies for Zatz
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: potential proxies: 9
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set obj function 53
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set to minimize
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dietz-Watts Belser
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 1 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dietz-Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 2 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dietz-Andrews
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 3 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dietz-Blumner
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 4 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Andrews
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 5 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Steele
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 6 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Blumner
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 7 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Watts Belser
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 8 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Suk
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 9 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 10 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Dulitz-Nestor
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 11 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Arenson
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 12 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 13 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 14 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Goodwin
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 15 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Migiel
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 16 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Owen
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 17 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Nestor
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 18 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Luzadis-Foster
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 19 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 20 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 21 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 22 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 23 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Lowey-Ball
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 24 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Montesino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 25 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Nagy
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 26 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-McGill [K]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 27 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Pazdernik-Goodwin
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 28 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Peskowitz-Hogan
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 29 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Peskowitz-Eckert
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 30 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Peskowitz-Ahmad
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 31 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Peskowitz-Weiger
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 32 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Peskowitz-Rajagopalan [Ranga]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 33 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Peskowitz-May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 34 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Nagy
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 35 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Rajagopalan [Ramya]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 36 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Lowey-Ball
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 37 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Cattley
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 38 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 39 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Tulis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 40 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Morey
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 41 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Eckert
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 42 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 43 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Saltzman-Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 44 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Cattelino
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 45 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Aukerman
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 46 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Tregaskis
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 47 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-McGill [K]
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 48 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Briggs
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 49 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-May
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 50 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Graunke
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 51 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Hagedorn
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 52 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Col name: Zatz-Sosa
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Set col 53 to binary
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Adding constraints
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Circling through absent members
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: adding absent constraint
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Absent constraint: 53(length) =1
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Present constraint: 53<=2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Added constraints
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Solved
+van der Vlugt Theresa [y/n or type 'q' to quit] 
+Model name:  '' - run #1    
+Objective:   Minimize(R0)
+ 
+SUBMITTED
+Model size:      104 constraints,      53 variables,          104 non-zeros.
+Sets:                                   0 GUB,                  0 SOS.
+ 
+Using DUAL simplex for phase 1 and PRIMAL simplex for phase 2.
+The primal and dual simplex pricing strategy set to 'Devex'.
+ 
+
+Relaxed solution                   8 after          7 iter is B&B base.
+ 
+Feasible solution                  8 after          7 iter,         0 nodes (gap 0.0%)
+ 
+-Optimal solution                  8 after          7 iter,         0 nodes (gap 0.0%).
+
+Excellent numeric accuracy ||*|| = 0
+
+ MEMO: lp_solve version 5.5.0.7 for 32 bit OS, with 64 bit REAL variables.
+      In the total iteration count 7, 0 (0.0%) were bound flips.
+      There were 0 refactorizations, 0 triggered by time and 0 by density.
+       ... on average 7.0 major pivots per refactorization.
+      The largest [LUSOL v2.2.1.0] fact(B) had 105 NZ entries, 1.0x largest basis.
+      The maximum B&B level was 1, 0.0x MIP order, 1 at the optimal solution.
+      The constraint matrix inf-norm is 1, with a dynamic range of 1.
+      Time to load data was 0.141 seconds, presolve used 0.000 seconds,
+       ... 0.000 seconds in simplex solver, in total 0.141 seconds.
+Model name: 
+          Dietz-Watts Belser Dietz-Cattelino Dietz-Andrews Dietz-Blumner Dulitz-Andrews Dulitz-Steele Dulitz-Blumner Dulitz-Watts Belser Dulitz-Suk Dulitz-Tregaskis Dulitz-Nestor Luzadis-Arenson Luzadis-Cattelino Luzadis-Aukerman Luzadis-Goodwin Luzadis-Migiel Luzadis-Owen Luzadis-Nestor Luzadis-Foster Pazdernik-Aukerman Pazdernik-Cattelino Pazdernik-May Pazdernik-Briggs Pazdernik-Lowey-Ball Pazdernik-Montesino Pazdernik-Nagy Pazdernik-McGill [K] Pazdernik-Goodwin Peskowitz-Hogan Peskowitz-Eckert Peskowitz-Ahmad Peskowitz-Weiger Peskowitz-Rajagopalan [Ranga] Peskowitz-May Saltzman-Nagy Saltzman-Rajagopalan [Ramya] Saltzman-Lowey-Ball Saltzman-Cattley Saltzman-Briggs Saltzman-Tulis Saltzman-Morey Saltzman-Eckert Saltzman-May Saltzman-Tregaskis Zatz-Cattelino Zatz-Aukerman Zatz-Tregaskis Zatz-McGill [K] Zatz-Briggs Zatz-May Zatz-Graunke Zatz-Hagedorn Zatz-Sosa 
+Minimize         2        3        4        1        2        3        4        5        6        7        1        2        3        4        5        6        7        8        1        2        3        4        5        6        7        8        9        1        2        3        4        5        6        1        2        3        4        5        6        7        8        9       10        1        2        3        4        5        6        7        8        9        0 
+R1               1        1        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  =        1
+R2               0        0        0        1        1        1        1        1        1        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  =        1
+R3               0        0        0        0        0        0        0        0        0        0        1        1        1        1        1        1        1        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  =        1
+R4               0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        1        1        1        1        1        1        1        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  =        1
+R5               0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        1        1        1        1        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  =        1
+R6               0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        1        1        1        1        1        1        1        1        1        0        0        0        0        0        0        0        0        0        0  =        1
+R7               0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        1        1        1        1        1        1        1        1        0  =        1
+R8               0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R9               0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R10              0        1        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R11              0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R12              0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0 <=        2
+R13              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R14              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R15              0        0        1        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R16              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R17              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0 <=        2
+R18              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R19              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R20              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R21              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R22              1        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0 <=        2
+R23              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R24              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R25              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R26              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R27              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R28              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R29              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R30              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R31              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R32              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R33              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R34              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R35              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R36              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R37              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R38              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R39              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R40              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R41              0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R42              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0 <=        2
+R43              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0 <=        2
+R44              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R45              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R46              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R47              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R48              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R49              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R50              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R51              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R52              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R53              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R54              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R55              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R56              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        1        0        0        0        0 <=        2
+R57              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R58              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0 <=        2
+R59              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R60              0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R61              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R62              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R63              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R64              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R65              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R66              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R67              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R68              0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R69              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R70              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R71              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R72              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R73              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R74              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R75              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R76              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R77              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R78              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R79              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R80              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R81              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R82              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R83              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R84              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R85              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R86              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R87              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R88              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R89              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0 <=        2
+R90              0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R91              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R92              0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R93              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R94              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R95              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+Jul 7, 2006 12:23:49 AM org.telluride.proxy.ProxyLogger log
+INFO: Printing solution
+R96              0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        1        0        0        0        0        0        0        0 <=        2
+R97              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R98              0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R99              0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R100             0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        1        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R101             0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R102             0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R103             0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+R104             0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 <=        2
+Type           Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int      Int 
+upbo             1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1        1 
+lowbo            0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0 
+
+Value of objective function: 8
+
+Actual values of the variables:
+Dietz-Watts Belser              1       Dietz-Cattelino                 0       Dietz-Andrews                   0
+Dietz-Blumner                   1       Dulitz-Andrews                  0       Dulitz-Steele                   0
+Dulitz-Blumner                  0       Dulitz-Watts Belser             0       Dulitz-Suk                      0
+Dulitz-Tregaskis                0       Dulitz-Nestor                   1       Luzadis-Arenson                 0
+Luzadis-Cattelino               0       Luzadis-Aukerman                0       Luzadis-Goodwin                 0
+Luzadis-Migiel                  0       Luzadis-Owen                    0       Luzadis-Nestor                  0
+Luzadis-Foster                  1       Pazdernik-Aukerman              0       Pazdernik-Cattelino             0
+Pazdernik-May                   0       Pazdernik-Briggs                0       Pazdernik-Lowey-Ball            0
+Pazdernik-Montesino             0       Pazdernik-Nagy                  0       Pazdernik-McGill [K]            0
+Pazdernik-Goodwin               1       Peskowitz-Hogan                 0       Peskowitz-Eckert                0
+Peskowitz-Ahmad                 0       Peskowitz-Weiger                0       Peskowitz-Rajagopalan [Ranga]            0
+Peskowitz-May                   1       Saltzman-Nagy                   0       Saltzman-Rajagopalan [Ramya]            0
+Saltzman-Lowey-Ball             0       Saltzman-Cattley                0       Saltzman-Briggs                 0
+Saltzman-Tulis                  0       Saltzman-Morey                  0       Saltzman-Eckert                 0
+Saltzman-May                    0       Saltzman-Tregaskis              1       Zatz-Cattelino                  0
+Zatz-Aukerman                   0       Zatz-Tregaskis                  0       Zatz-McGill [K]                 0
+Zatz-Briggs                     0       Zatz-May                        0       Zatz-Graunke                    0
+Zatz-Hagedorn                   0       Zatz-Sosa                       0       
+Actual values of the constraints:
+R1                              1       R2                              1       R3                              1
+R4                              1       R5                              1       R6                              1
+R7                              1       R8                              0       R9                              0
+R10                             1       R11                             1       R12                             1
+R13                             0       R14                             0       R15                             0
+R16                             0       R17                             0       R18                             0
+R19                             0       R20                             0       R21                             0
+R22                             2       R23                             0       R24                             0
+R25                             0       R26                             0       R27                             0
+R28                             0       R29                             0       R30                             0
+R31                             0       R32                             0       R33                             0
+R34                             0       R35                             0       R36                             0
+R37                             0       R38                             0       R39                             0
+R40                             0       R41                             0       R42                             0
+R43                             0       R44                             0       R45                             1
+R46                             0       R47                             0       R48                             0
+R49                             0       R50                             0       R51                             0
+R52                             0       R53                             0       R54                             0
+R55                             0       R56                             0       R57                             0
+R58                             0       R59                             0       R60                             0
+R61                             0       R62                             0       R63                             0
+R64                             0       R65                             0       R66                             1
+R67                             0       R68                             0       R69                             0
+R70                             0       R71                             0       R72                             0
+R73                             0       R74                             0       R75                             0
+R76                             0       R77                             0       R78                             0
+R79                             0       R80                             0       R81                             0
+R82                             0       R83                             0       R84                             0
+R85                             0       R86                             0       R87                             0
+R88                             0       R89                             0       R90                             0
+R91                             0       R92                             0       R93                             0
+R94                             0       R95                             0       R96                             0
+R97                             0       R98                             0       R99                             0
+R100                            0       R101                            0       R102                            0
+R103                            0       R104                            0       
+Objective function limits:
+                                 From            Till       FromValue
+Dietz-Watts Belser            -1e+030               3         -1e+030
+Dietz-Cattelino                     2          1e+030               0
+Dietz-Andrews                       2          1e+030               0
+Dietz-Blumner                 -1e+030               2         -1e+030
+Dulitz-Andrews                      1          1e+030               0
+Dulitz-Steele                       1          1e+030               0
+Dulitz-Blumner                      1          1e+030               0
+Dulitz-Watts Belser                 1          1e+030               0
+Dulitz-Suk                          1          1e+030               0
+Dulitz-Tregaskis                    1          1e+030               0
+Dulitz-Nestor                 -1e+030               2         -1e+030
+Luzadis-Arenson                     1          1e+030               0
+Luzadis-Cattelino                   1          1e+030               0
+Luzadis-Aukerman                    1          1e+030               0
+Luzadis-Goodwin                     1          1e+030               0
+Luzadis-Migiel                      1          1e+030               0
+Luzadis-Owen                        1          1e+030               0
+Luzadis-Nestor                      1          1e+030               0
+Luzadis-Foster                -1e+030               2         -1e+030
+Pazdernik-Aukerman                  1          1e+030               0
+Pazdernik-Cattelino                 1          1e+030               0
+Pazdernik-May                       1          1e+030               0
+Pazdernik-Briggs                    1          1e+030               0
+Pazdernik-Lowey-Ball                1          1e+030               0
+Pazdernik-Montesino                 1          1e+030               0
+Pazdernik-Nagy                      1          1e+030               0
+Pazdernik-McGill [K]                1          1e+030               0
+Pazdernik-Goodwin             -1e+030               2         -1e+030
+Peskowitz-Hogan                     1          1e+030               0
+Peskowitz-Eckert                    1          1e+030               0
+Peskowitz-Ahmad                     1          1e+030               0
+Peskowitz-Weiger                    1          1e+030               0
+Peskowitz-Rajagopalan [Ranga]                1          1e+030               0
+Peskowitz-May                 -1e+030               2         -1e+030
+Saltzman-Nagy                       1          1e+030               0
+Saltzman-Rajagopalan [Ramya]                1          1e+030               0
+Saltzman-Lowey-Ball                 1          1e+030               0
+Saltzman-Cattley                    1          1e+030               0
+Saltzman-Briggs                     1          1e+030               0
+Saltzman-Tulis                      1          1e+030               0
+Saltzman-Morey                      1          1e+030               0
+Saltzman-Eckert                     1          1e+030               0
+Saltzman-May                        1          1e+030               0
+Saltzman-Tregaskis            -1e+030               2         -1e+030
+Zatz-Cattelino                      1          1e+030               0
+Zatz-Aukerman                       1          1e+030               0
+Zatz-Tregaskis                      1          1e+030               0
+Zatz-McGill [K]                     1          1e+030               0
+Zatz-Briggs                         1          1e+030               0
+Zatz-May                            1          1e+030               0
+Zatz-Graunke                        1          1e+030               0
+Zatz-Hagedorn                       1          1e+030               0
+Zatz-Sosa                           0          1e+030         -1e+030
+
+Dual values with from - till limits:
+                           Dual value            From            Till
+R1                                  2               0               1
+R2                                  1               0               1
+R3                                  1               0               1
+R4                                  1               0               1
+R5                                  1   1.110223e-016               1
+R6                                  1               0               1
+R7                                  1               0               1
+R8                                  0         -1e+030          1e+030
+R9                                  0         -1e+030          1e+030
+R10                                 0         -1e+030          1e+030
+R11                                 0         -1e+030          1e+030
+R12                                 0         -1e+030          1e+030
+R13                                 0         -1e+030          1e+030
+R14                                 0         -1e+030          1e+030
+R15                                 0         -1e+030          1e+030
+R16                                 0         -1e+030          1e+030
+R17                                 0         -1e+030          1e+030
+R18                                 0         -1e+030          1e+030
+R19                                 0         -1e+030          1e+030
+R20                                 0         -1e+030          1e+030
+R21                                 0         -1e+030          1e+030
+R22                                 0         -1e+030          1e+030
+R23                                 0         -1e+030          1e+030
+R24                                 0         -1e+030          1e+030
+R25                                 0         -1e+030          1e+030
+R26                                 0         -1e+030          1e+030
+R27                                 0         -1e+030          1e+030
+R28                                 0         -1e+030          1e+030
+R29                                 0         -1e+030          1e+030
+R30                                 0         -1e+030          1e+030
+R31                                 0         -1e+030          1e+030
+R32                                 0         -1e+030          1e+030
+R33                                 0         -1e+030          1e+030
+R34                                 0         -1e+030          1e+030
+R35                                 0         -1e+030          1e+030
+R36                                 0         -1e+030          1e+030
+R37                                 0         -1e+030          1e+030
+R38                                 0         -1e+030          1e+030
+R39                                 0         -1e+030          1e+030
+R40                                 0         -1e+030          1e+030
+R41                                 0         -1e+030          1e+030
+R42                                 0         -1e+030          1e+030
+R43                                 0         -1e+030          1e+030
+R44                                 0         -1e+030          1e+030
+R45                                 0         -1e+030          1e+030
+R46                                 0         -1e+030          1e+030
+R47                                 0         -1e+030          1e+030
+R48                                 0         -1e+030          1e+030
+R49                                 0         -1e+030          1e+030
+R50                                 0         -1e+030          1e+030
+R51                                 0         -1e+030          1e+030
+R52                                 0         -1e+030          1e+030
+R53                                 0         -1e+030          1e+030
+R54                                 0         -1e+030          1e+030
+R55                                 0         -1e+030          1e+030
+R56                                 0         -1e+030          1e+030
+R57                                 0         -1e+030          1e+030
+R58                                 0         -1e+030          1e+030
+R59                                 0         -1e+030          1e+030
+R60                                 0         -1e+030          1e+030
+R61                                 0         -1e+030          1e+030
+R62                                 0         -1e+030          1e+030
+R63                                 0         -1e+030          1e+030
+R64                                 0         -1e+030          1e+030
+R65                                 0         -1e+030          1e+030
+R66                                 0         -1e+030          1e+030
+R67                                 0         -1e+030          1e+030
+R68                                 0         -1e+030          1e+030
+R69                                 0         -1e+030          1e+030
+R70                                 0         -1e+030          1e+030
+R71                                 0         -1e+030          1e+030
+R72                                 0         -1e+030          1e+030
+R73                                 0         -1e+030          1e+030
+R74                                 0         -1e+030          1e+030
+R75                                 0         -1e+030          1e+030
+R76                                 0         -1e+030          1e+030
+R77                                 0         -1e+030          1e+030
+R78                                 0         -1e+030          1e+030
+R79                                 0         -1e+030          1e+030
+R80                                 0         -1e+030          1e+030
+R81                                 0         -1e+030          1e+030
+R82                                 0         -1e+030          1e+030
+R83                                 0         -1e+030          1e+030
+R84                                 0         -1e+030          1e+030
+R85                                 0         -1e+030          1e+030
+R86                                 0         -1e+030          1e+030
+R87                                 0         -1e+030          1e+030
+R88                                 0         -1e+030          1e+030
+R89                                 0         -1e+030          1e+030
+R90                                 0         -1e+030          1e+030
+R91                                 0         -1e+030          1e+030
+R92                                 0         -1e+030          1e+030
+R93                                 0         -1e+030          1e+030
+R94                                 0         -1e+030          1e+030
+R95                                 0         -1e+030          1e+030
+R96                                 0         -1e+030          1e+030
+R97                                 0         -1e+030          1e+030
+R98                                 0         -1e+030          1e+030
+R99                                 0         -1e+030          1e+030
+R100                                0         -1e+030          1e+030
+R101                                0         -1e+030          1e+030
+R102                                0         -1e+030          1e+030
+R103                                0         -1e+030          1e+030
+R104                                0         -1e+030          1e+030
+Dietz-Watts Belser                  0         -1e+030          1e+030
+Dietz-Cattelino                     1               0               1
+Dietz-Andrews                       2               0               1
+Dietz-Blumner                       0         -1e+030          1e+030
+Dulitz-Andrews                      1               0               1
+Dulitz-Steele                       2               0               1
+Dulitz-Blumner                      3               0               1
+Dulitz-Watts Belser                 4               0               1
+Dulitz-Suk                          5               0               1
+Dulitz-Tregaskis                    6               0               1
+Dulitz-Nestor                       0         -1e+030          1e+030
+Luzadis-Arenson                     1               0               0
+Luzadis-Cattelino                   2               0               1
+Luzadis-Aukerman                    3               0               1
+Luzadis-Goodwin                     4               0               1
+Luzadis-Migiel                      5               0               1
+Luzadis-Owen                        6               0               1
+Luzadis-Nestor                      7               0               1
+Luzadis-Foster                      0         -1e+030          1e+030
+Pazdernik-Aukerman                  1               0               0
+Pazdernik-Cattelino                 2               0               1
+Pazdernik-May                       3               0               1
+Pazdernik-Briggs                    4               0               1
+Pazdernik-Lowey-Ball                5               0               1
+Pazdernik-Montesino                 6               0               1
+Pazdernik-Nagy                      7               0               1
+Pazdernik-McGill [K]                8               0               1
+Pazdernik-Goodwin                   0         -1e+030          1e+030
+Peskowitz-Hogan                     1               0               1
+Peskowitz-Eckert                    2               0               1
+Peskowitz-Ahmad                     3               0               1
+Peskowitz-Weiger                    4               0               1
+Peskowitz-Rajagopalan [Ranga]       5               0               1
+Peskowitz-May                       0         -1e+030          1e+030
+Saltzman-Nagy                       1               0               1
+Saltzman-Rajagopalan [Ramya]        2               0               1
+Saltzman-Lowey-Ball                 3               0               1
+Saltzman-Cattley                    4               0               1
+Saltzman-Briggs                     5               0               1
+Saltzman-Tulis                      6               0               1
+Saltzman-Morey                      7               0               1
+Saltzman-Eckert                     8               0               1
+Saltzman-May                        9               0               1
+Saltzman-Tregaskis                  0         -1e+030          1e+030
+Zatz-Cattelino                      1               0               1
+Zatz-Aukerman                       2               0               1
+Zatz-Tregaskis                      3               0               1
+Zatz-McGill [K]                     4               0               1
+Zatz-Briggs                         5               0               1
+Zatz-May                            6               0               1
+Zatz-Graunke                        7               0               1
+Zatz-Hagedorn                       8               0               1
+Zatz-Sosa                           0         -1e+030          1e+030
+
+Process finished with exit code 0

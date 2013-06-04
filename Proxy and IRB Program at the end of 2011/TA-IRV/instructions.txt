@@ -1,0 +1,34 @@
+Set-up:
+1. Copy the entire TA-IRV folder to an easy-to-find directory on your computer.
+2. Make sure you have a valid Java Runtime Environment (JRE).  You can check using the following procedure:
+		a. open a command window.
+			On Windows: start=> run=> type "cmd" and hit enter
+			On Mac/Linux: use the Terminal application, possibly in your utilities folder
+        b. type "java -version"
+        c. if you get something like this, you have java installed:
+		....>java -version
+			java version "1.6.0_01"
+			Java(TM) SE Runtime Environment (build 1.6.0_01-b06)
+			Java HotSpot(TM) Client VM (build 1.6.0_01-b06, mixed mode, sharing)
+	Check that the version number is at least 1.6.  If you don't get something like that, install a JRE from http://java.sun.com.  You want to install version "SE" 6 or higher.
+3. To run the program, open a command window (start=>run=> type "cmd" and hit enter)
+4. Navigate to the TA-IRV directory by typing "cd" followed by the full directory name for the folder.  You may find this folder by looking at "location" or "address" under the properties of any document in the folder (by, e.g., right-clicking and selecting "properties" or "information").
+5. Type "java Election" and hit enter.  The Election Graphical User Interface should pop up.  Keep the command/terminal window in view, as you will need this to read off election results.
+
+Use: (this explains basic use; for further features, please consult Michael Barany)
+
+1. Click "New Election" and name the election, e.g. "CAC, first ballot".
+2. You will be taken to a new screen with the option to, among other things, "Enter Candidates".  Click this button to go to the candidates screen.
+3. Add candidates by clicking "Add Candidate" and entering the name in the pop-up window.  If you make a mistake, you will have to clear all of the candidates by clicking "Clear Candidates" and starting over.
+4. When all candidates have been entered, go to the ballot screen by hitting "Input Ballots".  Ignore the "Voting Key" field, as it is used only for authenticated elections (where voters enter their own votes).
+5. Enter voter preferences, one ballot at a time, by selecting the appropriate rank buttons next to candidate names and hitting "Enter Ballot".  At this time, there is no way to cancel an individual mis-entered vote.
+6. When you have finished entering ballots, click "Tabulate Election".  If you have ballots that were left out of an initial tabulation, you may still enter them and tabulate again, without having to re-enter previous ballots.
+The program will then give a "verbose" output, including a read-out of all the ballots entered which can be saved for inspection.  At the end, it will either give a winner or inform you that a re-ballot is necessary.
+Here are some of the messages you might see:
+[CANDIDATE-NAME eliminated/revived] ... during the IRV and tie-breaking procedure, candidates are systematically eliminated and revived for vote-counting
+[Tie is between: ...] ... When there is a tie, the program will report who was involved in the tie
+Tie-break of collective impotence invoked for X-way tie ... Here, a group of tied candidates are eliminated when their total number of votes is less than the total for the next lowest vote-getter
+Tie-break of all-the-same-in-the-end attempted for X-way tie ... Here, a group of tied candidates has more combined votes than the next lowest vote-getter.  The program tries every possible order of eliminating the candidates and records a winner if the end-result is the same each time.  If not, the transcript will read "Multiple possible winners found... reballot necessary."
+
+
+
