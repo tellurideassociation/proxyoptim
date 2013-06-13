@@ -161,7 +161,7 @@ public class ProxyGUI extends JPanel
         //A better program would compute this.
         TALogo.setPreferredSize(new Dimension(235+10, 86+10));
 
-        ImageIcon icon = createImageIcon("images/ta_logo.gif");
+        ImageIcon icon = createImageIcon(PROXY_IMAGES_DIR.concat("ta_logo.gif"));
         TALogo.setIcon(icon);
         TALogo.setToolTipText("Telluride Association");
 
